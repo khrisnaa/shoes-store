@@ -1,0 +1,218 @@
+[
+  {
+    "id": "01",
+    "brand": "Nike",
+    "model": "SB Dunk Low Pro",
+    "category": "men",
+    "price": 1729000,
+    "discount": 0,
+    "description": "An '80s b-ball icon returns with classic details and throwback hoops flair. Channelling vintage style back onto the streets, the Nike SB Dunk features a padded low-cut collar that lets you comfortably take your game anywhere.",
+    "colors": ["White"],
+    "size_chart": {
+      "EU": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45],
+      "US": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "UK": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "stock": {
+      "36": 10,
+      "37": 15,
+      "38": 8,
+      "39": 20,
+      "40": 5,
+      "41": 12,
+      "42": 7,
+      "43": 9,
+      "44": 6,
+      "45": 4
+    }
+  },
+  {
+    "id": "02",
+    "brand": "Nike",
+    "model": "SB Dunk Low Pro",
+    "category": "men",
+    "price": 1729000,
+    "discount": 0,
+    "description": "An '80s b-ball icon returns with classic details and throwback hoops flair. Channelling vintage style back onto the streets, the Nike SB Dunk features a padded low-cut collar that lets you comfortably take your game anywhere.",
+    "colors": ["Navy"],
+    "size_chart": {
+      "EU": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45],
+      "US": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "UK": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "stock": {
+      "36": 10,
+      "37": 15,
+      "38": 8,
+      "39": 20,
+      "40": 5,
+      "41": 12,
+      "42": 7,
+      "43": 9,
+      "44": 6,
+      "45": 4
+    }
+  },
+  {
+    "id": "03",
+    "brand": "Nike",
+    "model": "Dunk Low Retro SE",
+    "category": "men",
+    "price": 1909000,
+    "discount": 0,
+    "description": "The '80s b-ball icon returns with a classic construction and throwback hoops flair. Channelling vintage style back onto the streets, its padded, low-cut collar lets you take your game anywhere—in comfort.",
+    "colors": ["White", "Green"],
+    "size_chart": {
+      "EU": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45],
+      "US": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "UK": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "stock": {
+      "36": 10,
+      "37": 15,
+      "38": 8,
+      "39": 20,
+      "40": 5,
+      "41": 12,
+      "42": 7,
+      "43": 9,
+      "44": 6,
+      "45": 4
+    }
+  },
+  {
+    "id": "04",
+    "brand": "Nike",
+    "model": "Dunk Low Retro",
+    "category": "men",
+    "price": 1549000,
+    "discount": 0,
+    "description": "Recognising the Dunk's roots as the top-ranking university-team sneaker, the Be True To Your School Pack looks to the original ad campaign for inspiration. Colours represent top-flight universities, while crisp leather has the perfect amount of sheen to make 'em a hands-down win. So lace up and show off that varsity spirit. Are you game?",
+    "colors": ["White", "Green"],
+    "size_chart": {
+      "EU": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45],
+      "US": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "UK": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "stock": {
+      "36": 10,
+      "37": 15,
+      "38": 8,
+      "39": 20,
+      "40": 5,
+      "41": 12,
+      "42": 7,
+      "43": 9,
+      "44": 6,
+      "45": 4
+    }
+  },
+  {
+    "id": "05",
+    "brand": "Nike",
+    "model": "Dunk Low Retro",
+    "category": "men",
+    "price": 1549000,
+    "discount": 0,
+    "description": "Recognising the Dunk's roots as the top-ranking university-team sneaker, the Be True To Your School Pack looks to the original ad campaign for inspiration. Colours represent top-flight universities, while crisp leather has the perfect amount of sheen to make 'em a hands-down win. So lace up and show off that varsity spirit. Are you game?",
+    "colors": ["White", "Black", "Red"],
+    "size_chart": {
+      "EU": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45],
+      "US": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "UK": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "stock": {
+      "36": 10,
+      "37": 15,
+      "38": 8,
+      "39": 20,
+      "40": 5,
+      "41": 12,
+      "42": 7,
+      "43": 9,
+      "44": 6,
+      "45": 4
+    }
+  },
+  {
+    "id": "06",
+    "brand": "Nike",
+    "model": "Dunk Low Retro SE",
+    "category": "men",
+    "price": 1909000,
+    "discount": 0,
+    "description": "Whatever your style, you can always count on a classic. Especially Dunks with an unmatched range of colourways to complement your every look. This version combines premium materials and plush padding for game-changing comfort that lasts.",
+    "colors": ["Orange"],
+    "size_chart": {
+      "EU": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45],
+      "US": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "UK": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "stock": {
+      "36": 10,
+      "37": 15,
+      "38": 8,
+      "39": 20,
+      "40": 5,
+      "41": 12,
+      "42": 7,
+      "43": 9,
+      "44": 6,
+      "45": 4
+    }
+  },
+  {
+    "id": "07",
+    "brand": "Nike",
+    "model": "Dunk Low Retro",
+    "category": "men",
+    "price": 1549000,
+    "discount": 0,
+    "description": "Created for the hardwood but taken to the streets, the basketball icon returns with classic details and throwback hoops flair. Channelling '80s vibes, its padded, low-cut collar lets you take your game anywhere—in comfort.",
+    "colors": ["White", "Purple"],
+    "size_chart": {
+      "EU": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45],
+      "US": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "UK": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "stock": {
+      "36": 10,
+      "37": 15,
+      "38": 8,
+      "39": 20,
+      "40": 5,
+      "41": 12,
+      "42": 7,
+      "43": 9,
+      "44": 6,
+      "45": 4
+    }
+  },
+  {
+    "id": "08",
+    "brand": "Nike",
+    "model": "Dunk Low SE",
+    "category": "men",
+    "price": 2009000,
+    "discount": 0,
+    "description": "Wildly versatile, strikingly clean and oh-so classic. The Dunk Low mixes suede and leather for a flawless finish. It comes complete with a padded collar, lightweight cushioning and a gum sole. Lace up and bring the beach vibes with you.",
+    "colors": ["White", "Green"],
+    "size_chart": {
+      "EU": [36, 37, 38, 39, 40, 41, 42, 43, 44, 45],
+      "US": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "UK": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "stock": {
+      "36": 10,
+      "37": 15,
+      "38": 8,
+      "39": 20,
+      "40": 5,
+      "41": 12,
+      "42": 7,
+      "43": 9,
+      "44": 6,
+      "45": 4
+    }
+  }
+]
