@@ -1,6 +1,7 @@
 import { NavbarLink } from '@/components/navbar/navbar-link';
 import { NavbarLogo } from '@/components/navbar/navbar-logo';
 import { NavbarAction } from '@/components/navbar/navbar-action';
+import { MobileMenu } from '@/components/navbar/mobile-menu';
 
 const links = [
   { label: 'Men', href: '#' },
@@ -12,12 +13,11 @@ const links = [
 
 export const Navbar = () => {
   return (
-    <div className="sticky top-0 z-50 h-16 border-b bg-white px-8">
-      <div className="relative flex h-full w-full items-center justify-between">
-        <NavbarLogo />
-        <NavbarLink links={links} />
-        <NavbarAction />
-      </div>
+    <div className="sticky top-0 z-10 flex h-16 items-center justify-between border-b bg-white px-5">
+      <MobileMenu />
+      <NavbarLogo />
+      <NavbarLink links={links} />
+      <NavbarAction />
     </div>
   );
 };

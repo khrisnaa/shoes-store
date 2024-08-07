@@ -21,11 +21,14 @@ export const ProductCarousel = ({ title }: ProductCarouselProps) => {
   return (
     <div>
       <div className="flex items-end justify-between">
-        <Header>{title}</Header>
+        <div className="w-1/2">
+          <Header>{title}</Header>
+        </div>
+
         <Button
           className={cn(
             anton.className,
-            'm-8 rounded-none px-10 py-8 text-xl uppercase',
+            'text-md rounded-none uppercase md:px-10 md:py-8 md:text-xl',
           )}
           size={'lg'}
         >
@@ -35,13 +38,13 @@ export const ProductCarousel = ({ title }: ProductCarouselProps) => {
       <Carousel className="w-full py-8">
         <CarouselContent>
           {Array.from({ length: 8 }).map((_, index) => (
-            <CarouselItem className="basis-1/4">
+            <CarouselItem className="sm:basis-1/2 md:basis-1/3 lg:basis-1/4">
               <ProductCard />
             </CarouselItem>
           ))}
         </CarouselContent>
-        <CarouselPrevious />
-        <CarouselNext />
+        <CarouselPrevious className="hidden sm:block" />
+        <CarouselNext className="hidden sm:block" />
       </Carousel>
     </div>
   );

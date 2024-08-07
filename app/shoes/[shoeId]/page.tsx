@@ -1,12 +1,11 @@
+import { ProductCarousel } from '@/components/product/product-carousel';
 import { ProductDetail } from '@/components/product/product-detail';
-import { ProductList } from '@/components/product/product-list';
 
 const Page = () => {
   return (
-    <div className="px-8">
+    <div className="px-4 sm:px-8">
       <ProductDetail />
-
-      <ProductList title="Recomendation" />
+      <ProductCarousel title="Recomendation" />
     </div>
   );
 };

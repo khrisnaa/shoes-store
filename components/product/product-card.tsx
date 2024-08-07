@@ -35,7 +35,7 @@ export const ProductCard = () => {
         </div>
       </CardHeader>
       <CardContent className="relative cursor-pointer overflow-hidden border-b-2 border-t-2 border-black p-0">
-        <div className="absolute z-10 h-full w-full bg-black opacity-0 transition-opacity duration-500 group-hover:opacity-50"></div>
+        <div className="absolute z-[1] h-full w-full bg-black opacity-0 transition-opacity duration-500 group-hover:opacity-50"></div>
         <Image
           alt="NIKE"
           src={'/shoes/NIKE_DUNK_LOW_RETRO_A2.png'}
@@ -44,7 +44,7 @@ export const ProductCard = () => {
           className="z-0 h-full max-h-72 w-full object-cover"
         />
 
-        <div className="items-ce absolute bottom-4 left-1/2 z-20 flex -translate-x-1/2 translate-y-12 justify-center gap-2 opacity-0 transition-all duration-500 group-hover:translate-y-0 group-hover:opacity-100">
+        <div className="items-ce absolute bottom-4 left-1/2 z-[2] flex -translate-x-1/2 translate-y-12 justify-center gap-2 opacity-0 transition-all duration-500 group-hover:translate-y-0 group-hover:opacity-100">
           <button
             onClick={onLike}
             className={cn(

@@ -3,7 +3,6 @@ import { inter } from './font';
 import './globals.css';
 import { Navbar } from '@/components/navbar/navbar';
 import { cn } from '@/lib/utils';
-import { MobileNavbar } from '@/components/navbar/mobile-navbar';
 
 export const metadata: Metadata = {
   title: 'Create Next App',
@@ -23,9 +22,8 @@ export default function RootLayout({
           inter.className,
         )}
       >
-        {/* <Navbar /> */}
-        <MobileNavbar />
-        <main className="flex-1">{children}</main>
+        <Navbar />
+        <main className="flex flex-1 flex-col justify-center">{children}</main>
       </body>
     </html>
   );
